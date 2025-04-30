@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>responsive Portfolio website</h1>
+<h1>Responsive Portfolio website</h1>
 <h2 style="color:red;">-> using React, Three.js and GSAP</h2>
   <hr>
 </body>
